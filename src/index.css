@@ -1,0 +1,26 @@
+.counter-container{
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.count-display{
+  font-size: 10em;
+  margin-top: 0;
+  margin-bottom: 50px;
+
+}
+.counter-button{
+  width: 150px;
+  height: 50px;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0px 15px;
+  background-color: aquamarine;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.counter-button:hover{
+  background-color: rgb(152, 224, 200);
+  /* color: white; */
+}
